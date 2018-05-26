@@ -1,0 +1,1 @@
+KeymanWeb.KRS(new Stub_Keyboard_bsk()); function Stub_Keyboard_bsk() {this.KF="bsk-1.0.js";this.KI="Keyboard_bsk";this.KN="Burushaski Roman Keyboard";}

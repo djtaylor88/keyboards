@@ -1,0 +1,20 @@
+﻿{
+  "options" : {
+    "device" : "any",
+    "keyboardBaseUri" : "http://your-host-here/keyboard-path/",
+    "fontBaseUri" : "http://your-host-here/font-path/"
+  },
+  "keyboard" : {
+    "id" : "bsk",
+    "name" : "Burushaski Roman Keyboard",
+    "filename" : "bsk-1.0.js",
+    "version" : "1.0",
+    "lastModified" : "2018-05-26T14:38:55.797+01:00",
+    "languages" : [
+      {
+        "id" : "bsk",
+        "name" : "Burushaski"
+      }
+      ]
+  }
+}

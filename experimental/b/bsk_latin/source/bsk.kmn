@@ -1,10 +1,10 @@
 ﻿store(&VERSION) '9.0'
 store(&ETHNOLOGUECODE) 'bsk'
 store(&COPYRIGHT) '©BurushaskiLS 2017'
-store(&LAYOUTFILE) 'Untitled-layout.js'
 store(&TARGETS) 'web iphone ipad androidphone androidtablet mobile tablet'
-store(&VISUALKEYBOARD) 'BSK Latin Mobile.kvk'
+store(&VISUALKEYBOARD) 'bsk.kvk'
 store(&NAME) 'Burushaski Roman Keyboard'
+store(&BITMAP) 'bsk.ico'
 begin Unicode > use(main)
 
 
